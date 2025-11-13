@@ -37,4 +37,4 @@ Integra `CrmService` e `CepApi` para migrar clientes.
 ### 👩‍💻 Autora
 
 Taís Pestana
-🌐 GitHub | 💼 LinkedIn
+🌐 [GitHub](https://github.com/taispestana) | 💼 [LinkedIn](https://www.linkedin.com/in/taispestana)
